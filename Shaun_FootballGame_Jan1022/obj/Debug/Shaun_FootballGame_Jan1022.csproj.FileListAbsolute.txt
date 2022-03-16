@@ -1,0 +1,10 @@
+C:\Users\Shaun\source\repos\Shaun_FootballGame_Jan1022\bin\Debug\Shaun_FootballGame_Jan1022.exe.config
+C:\Users\Shaun\source\repos\Shaun_FootballGame_Jan1022\bin\Debug\Shaun_FootballGame_Jan1022.exe
+C:\Users\Shaun\source\repos\Shaun_FootballGame_Jan1022\bin\Debug\Shaun_FootballGame_Jan1022.pdb
+C:\Users\Shaun\source\repos\Shaun_FootballGame_Jan1022\obj\Debug\Shaun_FootballGame_Jan1022.csproj.AssemblyReference.cache
+C:\Users\Shaun\source\repos\Shaun_FootballGame_Jan1022\obj\Debug\Shaun_FootballGame_Jan1022.Form1.resources
+C:\Users\Shaun\source\repos\Shaun_FootballGame_Jan1022\obj\Debug\Shaun_FootballGame_Jan1022.Properties.Resources.resources
+C:\Users\Shaun\source\repos\Shaun_FootballGame_Jan1022\obj\Debug\Shaun_FootballGame_Jan1022.csproj.GenerateResource.cache
+C:\Users\Shaun\source\repos\Shaun_FootballGame_Jan1022\obj\Debug\Shaun_FootballGame_Jan1022.csproj.CoreCompileInputs.cache
+C:\Users\Shaun\source\repos\Shaun_FootballGame_Jan1022\obj\Debug\Shaun_FootballGame_Jan1022.exe
+C:\Users\Shaun\source\repos\Shaun_FootballGame_Jan1022\obj\Debug\Shaun_FootballGame_Jan1022.pdb
